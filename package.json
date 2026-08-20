@@ -1,5 +1,6 @@
 {
-  "name": "mcu-relay-backend",
+  "name": "mcu-quay",
+  "description": "MCU Quay (芯埠): Node.js/TypeScript MCU relay service and React operator console",
   "version": "0.1.0",
   "private": true,
   "type": "module",

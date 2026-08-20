@@ -1,21 +1,59 @@
-﻿MIT License
+MCU QUAY DEVELOPMENT LICENSE
+Version 1.0 (MQDL-1.0)
 
 Copyright (c) 2026 yuezhi996-netizen
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license applies to the source code and other material in this repository
+that is identified as being covered by MQDL-1.0 (the “Software”).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of rights
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+Subject to the conditions below, the copyright holder grants you a worldwide,
+royalty-free, non-exclusive, perpetual, irrevocable license to use, reproduce,
+modify, prepare derivative works of, publicly display, publicly perform,
+sublicense, and distribute the Software and derivative works, in source or
+compiled form. Commercial use is permitted.
+
+2. Conditions
+
+You must:
+
+* retain this license notice and the copyright notice in copies or substantial
+  portions of the Software;
+* clearly mark files that you materially modify; and
+* include a copy of this license when you redistribute the Software or a
+  substantial portion of it.
+
+You may apply your own license to your original additions, provided that this
+does not remove or limit the rights granted by MQDL-1.0 to the original
+Software.
+
+3. Project name and marks
+
+This license does not grant permission to use the names “MCU Quay” or “芯埠”,
+or any project logo or other distinctive mark, to imply endorsement or to
+market a product without separate permission. This restriction does not limit
+the factual statement that your software is based on MCU Quay.
+
+4. Patents
+
+No patent license is granted by this license. Any patent rights that the
+copyright holder may choose to license must be granted in a separate written
+instrument.
+
+5. Disclaimer and limitation of liability
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+6. License status
+
+MQDL-1.0 is a project-specific license. It is not an OSI-approved license and
+does not currently have an SPDX identifier. If your organization requires a
+standard, approved license, obtain legal review before redistributing this
+Software under that organization's policy.
