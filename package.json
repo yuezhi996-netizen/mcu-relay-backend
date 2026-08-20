@@ -1,6 +1,6 @@
 {
   "name": "mcu-quay",
-  "description": "MCU Quay (芯埠): Node.js/TypeScript MCU relay service and React operator console",
+  "description": "MCU Quay（芯埠）— 面向 MCU 设备的 Node.js/TypeScript 中继与 React 控制台 | A Node.js/TypeScript relay and React operator console for MCU devices",
   "version": "0.1.0",
   "private": true,
   "type": "module",
